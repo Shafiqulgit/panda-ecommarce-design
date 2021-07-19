@@ -1,0 +1,15 @@
+.bg-color {
+  background-color: #fceae8;
+}
+
+#bg-sho {
+  background-color: #0000ff;
+}
+
+.button {
+  background-color: #ff428d;
+  border-radius: 5px;
+  color: white;
+  font-family: sans-serif;
+  padding: 9px 25px;
+}
